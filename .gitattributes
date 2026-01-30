@@ -1,0 +1,5 @@
+data/* filter=lfs diff=lfs merge=lfs -text
+processed_data/* filter=lfs diff=lfs merge=lfs -text
+shapefiles/* filter=lfs diff=lfs merge=lfs -text
+analysis_results/* filter=lfs diff=lfs merge=lfs -text
+human_activity/* filter=lfs diff=lfs merge=lfs -text
